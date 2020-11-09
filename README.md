@@ -1,2 +1,2 @@
-# Evidence-for-Wellcome-Sanger-Institute-Four-Year-PhD
-This GitHub link is tailored to the Personal Statement of the application of the Wellcome Sanger Institute's 4 year programme
+# Evidence-for-Oxford-BBSRC-DTP
+This GitHub link is tailored to personal statement for the Oxford BBSRC DTP. 
